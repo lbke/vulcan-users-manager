@@ -1,0 +1,26 @@
+{
+  "name": "vulcan-users-manager",
+  "version": "0.0.1",
+  "description": "",
+  "main": "package.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbke/vulcan-users-manager.git"
+  },
+  "keywords": [
+    "vulcan",
+    "JavaScript"
+  ],
+  "author": "LBKE - Lebrun Burel Knowledge Engineering",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lbke/vulcan-users-manager/issues"
+  },
+  "homepage": "https://github.com/lbke/vulcan-users-manager#readme"
+}
